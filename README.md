@@ -1,2 +1,2 @@
-# Florista-Flower-App
-Flower App
+# florista-flower-app
+flower app
